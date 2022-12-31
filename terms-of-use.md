@@ -4,7 +4,7 @@ Last Updated: December 30, 2022
 
 By accessing this site, you represent that you have read, understood, and agree to be bound by these Terms of Use ("**Terms**").  If you do not agree with all of these Terms of Use, then you are expressly prohibited from using the SnapYourEvent.com (the "**Site**") and you must discontinue use immediately.
 
-When we say "**we**", "**us**", or "**our**", we mean the business entity that operates SnapYourEvent.com.  We we refer to "**you**", we mean the user, whether personally or on behalf of another entity, engaged in the use of SnapYourEvent.com.
+When we say "**we**", "**us**", or "**our**", we mean the business entity that operates SnapYourEvent.com (currently located at <https://shareable-album-qr.pages.dev/>) (the "**Site**").  We we refer to "**you**", we mean the user, whether personally or on behalf of another entity, engaged in the use of SnapYourEvent.com.
 
 ## Intellectual Property Rights
 
@@ -71,9 +71,9 @@ You agree to defend, indemnify, and hold us harmless, including our subsidiaries
 
 ## General
 
-These Terms of Use and your use of the Site are governed by and construed in accordance with the laws of the State of [name of state] applicable to agreements made and to be entirely performed within the State/Commonwealth of [name of state], without regard to its conflict of law principles.
+These Terms and your use of the Site are governed by and construed in accordance with the laws of the Province of British Columbia in Canada applicable to agreements made and to be entirely performed within the Province of British Columbia, without regard to its conflict of law principles.
 
-Incorporate https://reference.legal/v1/sections/general/general-base/LATEST.
+Incorporate <https://reference.legal/v1/sections/general/general-base/LATEST>.
 
 ### Updates
 
