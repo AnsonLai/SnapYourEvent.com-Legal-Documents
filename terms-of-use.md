@@ -4,7 +4,7 @@ Last Updated: December 30, 2022
 
 By accessing this site, you represent that you have read, understood, and agree to be bound by these Terms of Use ("**Terms**").  If you do not agree with all of these Terms of Use, then you are expressly prohibited from using the SnapYourEvent.com (the "**Site**") and you must discontinue use immediately.
 
-When we say "**we**", "**us**", or "**our**", we mean the business entity that operates SnapYourEvent.com (currently located at <https://shareable-album-qr.pages.dev/>) (the "**Site**").  We we refer to "**you**", we mean the user, whether personally or on behalf of another entity, engaged in the use of SnapYourEvent.com.
+When we say "**we**", "**us**", or "**our**", we mean the business entity that operates SnapYourEvent.com (the "**Site**").  We we refer to "**you**", we mean the user, whether personally or on behalf of another entity, engaged in the use of SnapYourEvent.com.
 
 ## Intellectual Property Rights
 
@@ -44,7 +44,7 @@ As a user of the Site, you agree not to:
 
 ## Term and Termination
 
-These Terms shall remain in full force and effect while you use the Site. WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS OF USE, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SITE (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS OF USE OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SITE OR DELETE [YOUR ACCOUNT AND] ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION.
+These Terms shall remain in full force and effect while you use the Site. ***Without limiting any other provision of these Terms, we reserve the right to, in our sole discretion and without notice or liability, deny access to and use of the Site (including blocking certain IP addresses), to any person for any reason or for no reason, including without limitation for breach of any representation, warranty, or covenant contained in these Terms or of any applicable law or regulation. We may terminate your use or participation in the site or delete any content or information that you posted at any time, without warning, in our sole discretion.***
 
 If we terminate or suspend your account for any reason, you are prohibited from registering and creating a new account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party.
 
@@ -81,4 +81,4 @@ We reserve the right to supplement, remove or modify these Terms at any time and
 
 ## Contact Us
 
-In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at <PharaohsVizier@gmail.com>.
+In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at <support@snapyourevent.com>.
